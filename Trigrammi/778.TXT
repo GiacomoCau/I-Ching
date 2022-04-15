@@ -1,0 +1,7 @@
+ReWen: 8
+F—Hs: 5
+Nome: Tui
+Pattern: 778
+Simbolo: Lago
+Carattere: Sereno
+

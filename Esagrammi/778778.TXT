@@ -1,0 +1,31 @@
+Numero: 58
+1øNome: Tui
+2øNome: Il sereno, il lago
+Pattern: 778778
+Immagine: 
+Laghi poggiati l'uno sull'altro:
+L'immagine del sereno.
+Cos il nobile si riunisce con i suoi amici
+Per discutere ed imparare.
+Sentenza: 
+Il sereno.
+Riuscita.
+Propizia Š perseveranza.
+1ølinea: 
+Serenit… contenta.
+Salute!
+2ølinea: 
+Serenit… verace.
+Salute.
+Il pentimento svanisce.
+3ølinea: 
+Serenit… che sopraggiunge.
+Sciagura!
+4ølinea: 
+Serenit… ponderata non si acquieta.
+Eliminati i difetti si ha letizia.
+5ølinea: 
+Veracit… verso il corrosivo Š pericolosa.
+6ølinea: 
+Serenit… seducente.
+

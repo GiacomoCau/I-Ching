@@ -1,0 +1,38 @@
+Numero: 56
+1øNome: Lu
+2øNome: Il viandante
+Pattern: 887787
+Immagine: 
+Sul monte il fuoco:
+L'immagine del viandante.
+Cos il nobile Š chiaro e cauto nell'applicare le punizioni e non
+tira per le lunghe i litigi.
+Sentenza: 
+Il viandante.
+Riuscita per piccolezza.
+Al viandante perseveranza Š salutare.
+1ølinea: 
+Se il viandante si impaccia in piccinerie,
+Cos si attira la disgrazia.
+2ølinea: 
+Il viandante giunge alla locanda.
+Ha seco il suo possesso.
+Egli ottiene la perseveranza d'un giovane servitore.
+3ølinea: 
+Al viandante brucia la locanda.
+Egli perde la perseveranza del suo giovane servitore.
+Pericolo.
+4ølinea: 
+Il viandante riposa dove ha trovato alloggio.
+Egli ottiene il suo possesso ed un'ascia.
+Il mio cuore non Š lieto.
+5ølinea: 
+Egli abbatte un fagiano; cade alla prima freccia.
+Alla fine ne risulta lode e impiego.
+6ølinea: 
+All'uccello brucia il nido.
+Il viandante prima ride,
+Poi deve gemere e piangere.
+Egli perde la vacca in leggerezza.
+Sciagura!
+

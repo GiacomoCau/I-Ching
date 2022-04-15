@@ -1,0 +1,33 @@
+Numero: 7
+1øNome: Sc‹
+2øNome: L'esercito
+Pattern: 878888
+Immagine: 
+Entro la terra l'acqua:
+L'immagine dell'esercito.
+Cos il nobile accresce, magnanimo verso il popolo, le sue masse
+Sentenza: 
+All'esercito Š d'uopo perseveranza ed un uomo forte.
+Salute senza macchia.
+1ølinea: 
+Un esercito deve mettersi in moto in buon ordine.
+Se questo non Š buono minaccia sciagura.
+2ølinea: 
+Nel mezzo dell'esercito!
+Salute! Nessuna macchia!
+Il re conferisce triplice onorificenza.
+3ølinea: 
+l'esercito conduce per avventura con se nella carrozza dei
+cadaveri. Sciagura!
+4ølinea: 
+L'esercito si ritira. Nessuna macchia.
+5ølinea: 
+In campo vi Š della selvaggina. E' propizio catturarla.
+Senza macchia.
+Il pi— anziano conduce cadaveri,
+Allora perseveranza reca sciagura.
+6ølinea: 
+Il grande principe emana ordini,
+Fonda stati, infeuda famiglie.
+Uomini comuni non vanno adoperati.
+

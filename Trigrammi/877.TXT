@@ -1,0 +1,7 @@
+ReWen: 6
+F—Hs: 6
+Nome: Sun
+Pattern: 877
+Simbolo: Vento
+Carattere: Mite
+

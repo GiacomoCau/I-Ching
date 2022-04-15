@@ -1,0 +1,7 @@
+ReWen: 5
+F—Hs: 8
+Nome: Ken
+Pattern: 887
+Simbolo: Monte
+Carattere: Arresto
+

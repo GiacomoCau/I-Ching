@@ -1,0 +1,7 @@
+ReWen: 7
+F—Hs: 4
+Nome: Li
+Pattern: 787
+Simbolo: Fuoco
+Carattere: Aderente
+
