@@ -2,14 +2,17 @@ BEGIN {
 	srand()
 
 	if (ARGV[1] ~ /[6789]+/) {
-	 	if (length(ARGV[1]) == 6) mostra(ARGV[1])
+	 	if (length(ARGV[1]) == 6)
+	 		mostra(ARGV[1])
 		else {
 			print "error: esagramma non corretto"
 			exit(1)
 		}
 	}
-	else if (tolower(ARGV[1]) == "monete") mostra(monete())
-	else if (tolower(ARGV[1]) == "millefoglie") mostra(millefoglie())
+	else if (tolower(ARGV[1]) == "monete")
+		mostra(monete())
+	else if (tolower(ARGV[1]) == "millefoglie")
+		mostra(millefoglie())
 	else {
 		print "syntax: i-ching esagramma|monete|millefoglie"
 		exit(1)
@@ -18,13 +21,13 @@ BEGIN {
 
 function mostra (e,   m) {
 	print "L'Esagramma Responso:\n"
-	esag(e)
+	esagramma(e)
 	m = muta(e)
 	if (e != m) {
 		print "Le Singole Linee:\n"
 		lines(e)
 		print "L'Esagramma Responso Muta in:\n"
-		esag(m)
+		esagramma(m)
 	}
 }
 
@@ -40,18 +43,18 @@ function muta (e) {
 	return e
 }
 
-function esag (e, b) {
+function esagramma (e, b) {
 	b = base(e)
 	load(es, "esagrammi\\" b ".txt")
 	printf "%s - %s, %s\n\n", es["Numero"], es["1øNome"], es["2øNome"]
 	printf "%s\n", draw(e)
 	printf "Trigrammi esterni:\n"
-	printf "\tSopra: %s\n", trig(substr(b,4,3))
-	printf "\tSotto: %s\n", trig(substr(b,1,3))
+	printf "\tSopra: %s\n", trigramma(substr(b, 4, 3))
+	printf "\tSotto: %s\n", trigramma(substr(b, 1, 3))
 	printf "\n"
 	printf "Trigrammi interni:\n"
-	printf "\tSopra: %s\n", trig(substr(b,3,3))
-	printf "\tSotto: %s\n", trig(substr(b,2,3))
+	printf "\tSopra: %s\n", trigramma(substr(b, 3, 3))
+	printf "\tSotto: %s\n", trigramma(substr(b, 2, 3))
 	printf "\n"
 	printf "Immagine: %s\n\n", es["Immagine"]
 	printf "Sentenza: %s\n\n", es["Sentenza"]
@@ -66,15 +69,15 @@ function draw (e, i,d) {
 	return d
 }
 
-function trig (t, tr) {
+function trigramma (t, tr) {
 	load(tr, "trigrammi\\" t ".txt")
 	return tr["Nome"] " " tr["Simbolo"] " " tr["Carattere"] 
 }
 
 function lines (e, i,l) {
 	for (i=1; i<=6; i++) {
-		if ((l=substr(e,i,1)) ~ /6|9/) {
-			printf "%s al %sø posto:%s\n\n",l,i,es[i"ølinea"]
+		if ((l = substr(e, i, 1)) ~ /6|9/) {
+			printf "%s al %sø posto:%s\n\n", l, i, es[i "ølinea"]
 		}
 	}
 }
@@ -98,7 +101,7 @@ function monete (   i, e) {
 }
 
 function linea_monete (   i, l) {
-	i=3; while (i--) l += between(2,3) 
+	i=3; while (i--) l += between(2, 3) 
 	return l
 }
 
