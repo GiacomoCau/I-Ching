@@ -1,36 +1,36 @@
 Numero: 61
-1øNome: Ciung Fu
-2øNome: La veracit… intriseca
+1Â°Nome: Ciung Fu
+2Â°Nome: La veracitÃ  intriseca
 Pattern: 778877
 Immagine: 
-Al di sopra del lago Š il vento:
-L'immagine della veracit… intrinseca.
-Cos il nobile discute le faccende penali,
+Al di sopra del lago Ã¨ il vento:
+L'immagine della veracitÃ  intrinseca.
+CosÃ¬ il nobile discute le faccende penali,
 Per sospendere esecuzioni capitali.
 Sentenza: 
-Veracit… intrinseca: porci e pesci.
+VeracitÃ  intrinseca: porci e pesci.
 Salute!
-Propizio Š attraversare la grande acqua.
-Propizia Š perseveranza.
-1ølinea: 
+Propizio Ã¨ attraversare la grande acqua.
+Propizia Ã¨ perseveranza.
+1Â°linea: 
 Essere pronti reca salute.
-Se vi sono pensieri reconditi, questo Š inquietante.
-2ølinea: 
+Se vi sono pensieri reconditi, questo Ã¨ inquietante.
+2Â°linea: 
 Una gru che chiama nell'ombra.
 Il suo pulcino le risponde.
 Io ho una buona coppa.
 Voglio dividerla teco.
-3ølinea: 
+3Â°linea: 
 Egli trova un compagno; ora batte il tamburo, ora cessa;
 Ora singhiozza, ora canta.
-4ølinea: 
-La luna quand'Š quasi piena.
+4Â°linea: 
+La luna quand'Ã¨ quasi piena.
 Il cavallo apparigliato va perduto.
 Nessuna macchia.
-5ølinea: 
-Egli possiede la veracit… che concatena.
+5Â°linea: 
+Egli possiede la veracitÃ  che concatena.
 Nessuna macchia.
-6ølinea: 
+6Â°linea: 
 Canto del gallo che squilla fino al cielo.
 Perseveranza reca sciagura.
 

@@ -1,44 +1,44 @@
 Numero: 47
-1øNome: Kkunn
-2øNome: L'assillo (l'esaurimento)
+1Â°Nome: Kkunn
+2Â°Nome: L'assillo (l'esaurimento)
 Pattern: 878778
 Immagine: 
-Nel lago non vi Š acqua:
+Nel lago non vi Ã¨ acqua:
 L'immagine dell'esaurimento.
-Cos il nobile mette in palio la sua vita
-Per seguire la sua volont….
+CosÃ¬ il nobile mette in palio la sua vita
+Per seguire la sua volontÃ .
 Sentenza: 
 L'assillo.
 Riuscita.
 Perseveranza.
 Il grand'uomo opera salute.
 Nessuna macchia.
-Se si ha da dire una cosa non si Š creduti.
-1ølinea: 
+Se si ha da dire una cosa non si Ã¨ creduti.
+1Â°linea: 
 Si siede assillati sotto un albero spoglio
 E si finisce in una valle buia.
 Per tre anni non si vede nulla.
-2ølinea: 
-Si Š assillati pur avendo vino e cibo.
+2Â°linea: 
+Si Ã¨ assillati pur avendo vino e cibo.
 Ecco che viene l'uomo dalle giarrettiere scarlatte.
-Propizio Š offrire sacrifici.
-Avviarsi Š sciagurato.
+Propizio Ã¨ offrire sacrifici.
+Avviarsi Ã¨ sciagurato.
 Nessuna macchia.
-3ølinea: 
+3Â°linea: 
 Ci si lascia assillare da pietre
 E ci si appoggia su spine e cardi.
 Si entra in casa e non si vede la propria moglie.
 Sciagura.
-4ølinea: 
+4Â°linea: 
 Egli viene quieto quieto, assillato in una carrozza dorata.
 Svergognamento, ma riesce a compiere.
-5ølinea: 
+5Â°linea: 
 Naso e piedi gli vengono tagliati.
-Si Š assillati da quello dalle giarrettiere purpuree.
+Si Ã¨ assillati da quello dalle giarrettiere purpuree.
 Quieta quieta viene letizia.
-Propizio Š recare sacrifici ed offerte.
-6ølinea: 
-Egli Š assillato da ramoscelli.
+Propizio Ã¨ recare sacrifici ed offerte.
+6Â°linea: 
+Egli Ã¨ assillato da ramoscelli.
 Egli si muove malsicuro e dice "Movimento crea pentimento".
 Pentendosi di questo e avviandosi
 Si ha salute. 

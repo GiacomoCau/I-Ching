@@ -1,33 +1,33 @@
 Numero: 10
-1øNome: L
-2øNome: Il procedere
+1Â°Nome: LÃ¼
+2Â°Nome: Il procedere
 Pattern: 778777
 Immagine: 
-In alto Š il cielo, in basso Š il lago:
+In alto Ã¨ il cielo, in basso Ã¨ il lago:
 L'immagine del procedere.
-Cos il nobile distingue superiori ed inferiori.
+CosÃ¬ il nobile distingue superiori ed inferiori.
 E consolida in tal modo i sentimenti del popolo.
 Sentenza: 
 Procedere sulla coda della tigre.
 Essa non morde l'uomo. Riuscita.
-1ølinea: 
+1Â°linea: 
 Procedere semplice. Progredire senza macchia.
-2ølinea: 
+2Â°linea: 
 Procedere per la via semplice, piana.
 La perseveranza d'un uomo scuro reca salute.
-3ølinea: 
+3Â°linea: 
 Un orbo sa vedere, uno sciancato sa procedere.
 Egli procede sulla coda di tigre.
 Questa morde l'uomo.
 Sciagura!
-Un guerriero agisce cos per il suo grande principe.
-4ølinea: 
+Un guerriero agisce cosÃ¬ per il suo grande principe.
+4Â°linea: 
 Egli procede sulla coda della tigre.
 Prudenza e circospezione conducono finalmente alla salute.
-5ølinea: 
+5Â°linea: 
 Procedere deciso.
 Perseveranza con coscienza del pericolo.
-6ølinea: 
+6Â°linea: 
 Mira il tuo procedere ed esamina i segni favorevoli.
-Se tutto Š perfetto viene sublime salute.
+Se tutto Ã¨ perfetto viene sublime salute.
 

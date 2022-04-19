@@ -1,36 +1,36 @@
 Numero: 8
-1øNome: Pi
-2øNome: La solidariet…
+1Â°Nome: Pi
+2Â°Nome: La solidarietÃ 
 Pattern: 888878
 Immagine: 
 Sulla terra sta l'acqua:
-L'immagine della solidariet….
-Cos i re dei primi tempi hanno concesso i singoli stati come feudi
+L'immagine della solidarietÃ .
+CosÃ¬ i re dei primi tempi hanno concesso i singoli stati come feudi
 ed hanno curato amichevoli rapporti con i principi feudatari.
 Sentenza: 
-La solidariet… reca salute.
+La solidarietÃ  reca salute.
 Scruta l'oracolo ancora una volta,
-Per sapere se possiedi sublimit…, durata, perseveranza.
-Allora non vi Š macchia.
+Per sapere se possiedi sublimitÃ , durata, perseveranza.
+Allora non vi Ã¨ macchia.
 Gli incerti s'accostano pian piano.
 Chi viene troppo tardi ha sciagura.
-1ølinea: 
-A lui attieniti sincero e fedele: Questo non Š macchia.
-Verit… come una terrina ricolma:
-Cos in fine viene da fuori salute!
-2ølinea: 
+1Â°linea: 
+A lui attieniti sincero e fedele: Questo non Ã¨ macchia.
+VeritÃ  come una terrina ricolma:
+CosÃ¬ in fine viene da fuori salute!
+2Â°linea: 
 Tieni per lui interiormente. perseveranza reca salute!
-3ølinea: 
+3Â°linea: 
 Tu sei solidale con persone che non sono adatte.
-4ølinea: 
+4Â°linea: 
 Anche esteriormente attieniti a lui. perseveranza reca salute!
-5ølinea: 
-Palesamento della solidariet….
+5Â°linea: 
+Palesamento della solidarietÃ .
 Il re durante la caccia fa battere solo da tre lati
 E rinuncia alla selvaggina che devia prima.
 I borghesi non hanno bisogno di essere messi in guardia.
 Salute!
-6ølinea: 
+6Â°linea: 
 Egli non trova nessun capo per aggregarsi solidale.
 Sciagura.
 

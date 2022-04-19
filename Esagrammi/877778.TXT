@@ -1,36 +1,36 @@
 Numero: 28
-1øNome: Ta Ko
-2øNome: La preponderanza del grande
+1Â°Nome: Ta Ko
+2Â°Nome: La preponderanza del grande
 Pattern: 877778
 Immagine: 
 Il lago passa oltre le cima degli alberi:
 L'immagine della preponderanza del grande.
-Cos il nobile quando sta solo Š spensierato,
-E quando deve rinunciare al mondo Š intrepido.
+CosÃ¬ il nobile quando sta solo Ã¨ spensierato,
+E quando deve rinunciare al mondo Ã¨ intrepido.
 Sentenza: 
 La preponderanza del grande.
 La trave maestra si piega.
-Propizio Š avere dove recarsi.
+Propizio Ã¨ avere dove recarsi.
 Riuscita.
-1ølinea: 
+1Â°linea: 
 Poggiare su stuoia di pannia bianca.
 Nessuna macchia.
-2ølinea: 
+2Â°linea: 
 Un albero di pioppo secco getta un germoglio di radice.
 Un uomo anziano ottiene una moglie giovane.
-Tutto Š propizio.
-3ølinea: 
+Tutto Ã¨ propizio.
+3Â°linea: 
 La trave maestra si piega.
 Sciagura.
-4ølinea: 
+4Â°linea: 
 La trave maestra viene sostenuta.
 Salute.
-5ølinea: 
+5Â°linea: 
 Un pioppo secco getta boccioli.
 Una donna anziana ottiene un marito.
 Nessuna macchia.
 Nessuna lode.
-6ølinea: 
+6Â°linea: 
 Bisogna passare attraverso l'acqua.
 Essa va oltre il vertice del capo.
 Sciagura.

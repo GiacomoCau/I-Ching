@@ -1,30 +1,30 @@
 Numero: 39
-1øNome: Kienn
-2øNome: L'impedimento
+1Â°Nome: Kienn
+2Â°Nome: L'impedimento
 Pattern: 887878
 Immagine: 
 Sul monte sta l'acqua:
 L'immagine dell'impedimento.
-Cos il nobile si volge verso la propria persona
+CosÃ¬ il nobile si volge verso la propria persona
 E coltiva il suo carattere.
 Sentenza: 
-L'impedimento: propizio Š il sud-ovest.
-Non propizio Š il nord-est.
-Propizio Š vedere il grand'uomo.
-Perseveranza Š salutare!
-1ølinea: 
+L'impedimento: propizio Ã¨ il sud-ovest.
+Non propizio Ã¨ il nord-est.
+Propizio Ã¨ vedere il grand'uomo.
+Perseveranza Ã¨ salutare!
+1Â°linea: 
 Andare conduce in impedimenti, venire incontra lode.
-2ølinea: 
+2Â°linea: 
 Il servitore del re si trova in impedimento sopra impedimento.
-Ma la colpa non Š sua.
-3ølinea: 
+Ma la colpa non Ã¨ sua.
+3Â°linea: 
 Andare conduce in impedimenti; ed ecco che egli ritorna.
-4ølinea: 
+4Â°linea: 
 Andare conduce in impedimenti,
 Venire conduce all'unione.
-5ølinea: 
+5Â°linea: 
 In mezzo ai massimi impedimenti vengono amici.
-6ølinea: 
+6Â°linea: 
 Andare conduce impedimenti, venire conduce a gran salute.
-Propizio Š vedere il grand'uomo.
+Propizio Ã¨ vedere il grand'uomo.
 

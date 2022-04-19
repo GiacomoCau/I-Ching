@@ -1,34 +1,34 @@
 Numero: 25
-1øNome: U Uang
-2øNome: L'innocenza (l'inaspettato)
+1Â°Nome: U Uang
+2Â°Nome: L'innocenza (l'inaspettato)
 Pattern: 788777
 Immagine: 
 Sotto il cielo passa il tuono:
 Tutte le cose acquistano lo stato naturale dell'innocenza.
-Cos gli antichi re curavano e alimentavano,
-Ricchi di virt— e in armonia col tempo, tutti gli esseri
+CosÃ¬ gli antichi re curavano e alimentavano,
+Ricchi di virtÃ¹ e in armonia col tempo, tutti gli esseri
 Sentenza: 
 L'innocenza.
 Sublime riuscita.
-Propizia Š perseveranza.
-Se qualcuno non Š retto egli ha disgrazia,
-E non Š propizio imprendere una cosa qualsiasi.
-1ølinea: 
+Propizia Ã¨ perseveranza.
+Se qualcuno non Ã¨ retto egli ha disgrazia,
+E non Ã¨ propizio imprendere una cosa qualsiasi.
+1Â°linea: 
 Cammino innocente reca salute!
-2ølinea: 
+2Â°linea: 
 Se arando non si pensa al raccolto
 E sterpando non all'uso del campo;
-Allora Š propizio imprendere qualche cosa.
-3ølinea: 
+Allora Ã¨ propizio imprendere qualche cosa.
+3Â°linea: 
 Disgraziato non per propria colpa:
 La mucca impastoiata da qualcuno allo steccato
 E' il guadagno del viandante, la perdita del borghese.
-4ølinea: 
-Chi Š in grado di essere perseverante rimane senza macchia.
-5ølinea: 
+4Â°linea: 
+Chi Ã¨ in grado di essere perseverante rimane senza macchia.
+5Â°linea: 
 Il malattia senza colpa non adoperare farmaci:
-Guarir… ben da sola.
-6ølinea: 
+GuarirÃ  ben da sola.
+6Â°linea: 
 Agire innocente reca disgrazia.
-Nulla Š propizio.
+Nulla Ã¨ propizio.
 

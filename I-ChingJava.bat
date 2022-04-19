@@ -1,2 +1,2 @@
 @echo off
-java iChing %1
+java -cp . --enable-preview IChing %1

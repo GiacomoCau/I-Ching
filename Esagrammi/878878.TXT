@@ -1,38 +1,38 @@
 Numero: 29
-1øNome: Kkann
-2øNome: L'abissale
+1Â°Nome: Kkann
+2Â°Nome: L'abissale
 Pattern: 878878
 Immagine: 
 L'acqua scorre ininterrottamente e arriva alla meta:
 L'immagine dell'abissale ripetuto.
-Cos il nobile incede in durevole virt—
+CosÃ¬ il nobile incede in durevole virtÃ¹
 Ed esercita l'arte dell'insegnante.
 Sentenza: 
 L'abissale ripetuto.
 Se sei verace hai riuscita ne cuore,
 E quello che fai ha successo.
-1ølinea: 
+1Â°linea: 
 Ripetizione dell'abissale.
 Nell'abisso si finisce in una buca.
 Sciagura.
-2ølinea: 
-Nell'abisso Š pericolo.
+2Â°linea: 
+Nell'abisso Ã¨ pericolo.
 si tenda ad ottenere solo piccole cose.
-3ølinea: 
+3Â°linea: 
 Avanti e indietro, abisso sopra abisso.
 In tale pericolo fermati per ora,
 Altrimenti nell'abisso finisci in una buca.
-Non agire cos.
-4ølinea: 
+Non agire cosÃ¬.
+4Â°linea: 
 Una brocca di vino, una ciotola di riso come aggiunta,
 Vasellame di argilla,
 Porti semplicemente attraverso la finestra.
-Ci• non costituisce alcuna macchia.
-5ølinea: 
+CiÃ² non costituisce alcuna macchia.
+5Â°linea: 
 L'abisso non viene colmato troppo,
 Viene riempito fino all'orlo.
 Nessuna macchia.
-6ølinea: 
+6Â°linea: 
 Legato con corde e gomene, racchiuso tra mura carcerarie recinte
 da spine:
 Per tre anni non si orienta.

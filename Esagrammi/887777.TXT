@@ -1,32 +1,32 @@
 Numero: 33
-1øNome: Tunn
-2øNome: La ritirata
+1Â°Nome: Tunn
+2Â°Nome: La ritirata
 Pattern: 887777
 Immagine: 
 Sotto il cielo il monte:
 L'immagine della ritirata.
-Cos il nobile tiene lontano l'ignobile,
+CosÃ¬ il nobile tiene lontano l'ignobile,
 Non irato, ma pacato.
 Sentenza: 
 La ritirata.
 Riuscita.
-In piccolo Š propizia perseveranza.
-1ølinea: 
-Durante la ritirata presso la coda: quest'Š pericoloso.
+In piccolo Ã¨ propizia perseveranza.
+1Â°linea: 
+Durante la ritirata presso la coda: quest'Ã¨ pericoloso.
 Non bisogna voler imprendere qualche cosa.
-2ølinea: 
+2Â°linea: 
 Egli lo vincola con cuoio giallo di bue.
-Nessuno Š in grado di strappartelo.
-3ølinea: 
-Ritirata trattenuta Š penosa e pericolosa.
+Nessuno Ã¨ in grado di strappartelo.
+3Â°linea: 
+Ritirata trattenuta Ã¨ penosa e pericolosa.
 Tener la gente come servi e serve reca salute.
-4ølinea: 
+4Â°linea: 
 Ritirata volontaria al nobile reca salute,
 All'ignobile decadimento.
-5ølinea: 
+5Â°linea: 
 Ritirata amichevole.
 Perseveranza reca salute.
-6ølinea: 
+6Â°linea: 
 Ritirata serena.
-Tutto Š propizio.
+Tutto Ã¨ propizio.
 

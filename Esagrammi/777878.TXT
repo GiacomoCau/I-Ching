@@ -1,34 +1,34 @@
 Numero: 5
-1øNome: S
-2øNome: L'attesa
+1Â°Nome: SÃ¼
+2Â°Nome: L'attesa
 Pattern: 777878
 Immagine: 
 Nubi salgono al cielo:
 L'immagine dell'attesa.
-Cos il nobile mangia e beve, ed Š lieto e fidente.
+CosÃ¬ il nobile mangia e beve, ed Ã¨ lieto e fidente.
 Sentenza: 
 L'attesa.
 Se sei verace hai luce e riuscita.
 Perseveranza reca salute.
 Propizio attraversare la grande acqua.
-1ølinea: 
+1Â°linea: 
 Attendere fuori mura.
-Propizio Š rimanere nel durevole.
+Propizio Ã¨ rimanere nel durevole.
 Nessuna macchia.
-2ølinea: 
+2Â°linea: 
 Attendere sulla sabbia.
 Avviene qualche battibecco.
 La fine reca salute.
-3ølinea: 
+3Â°linea: 
 Attendere nella melma
 Provoca la venuta del nemico.
-4ølinea: 
+4Â°linea: 
 Attendere nel sangue.
 Fuori, da questa buca!
-5ølinea: 
+5Â°linea: 
 Attendere bevendo e mangiando
 Perseveranza reca salute.
-6ølinea: 
+6Â°linea: 
 Si finisce nella buca.
 Ed ecco che arrivano non invitati tre ospiti;
 Onorali, e alla fine viene salute.

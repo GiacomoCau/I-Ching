@@ -1,43 +1,43 @@
 Numero: 42
-1øNome: I
-2øNome: L'accrescimento
+1Â°Nome: I
+2Â°Nome: L'accrescimento
 Pattern: 788877
 Immagine: 
 Vento e tuono:
 L'immagine dell'accrescimento.
-Cos il nobile: quando scorge un bene egli lo imita;
+CosÃ¬ il nobile: quando scorge un bene egli lo imita;
 Se ha difetti egli li lascia.
 Sentenza: 
 L'accrescimento.
-Propizio Š imprendere qualche cosa.
-Propizio Š attraversare la grande acqua.
-1ølinea: 
-Propizio Š compiere grandi gesta.
+Propizio Ã¨ imprendere qualche cosa.
+Propizio Ã¨ attraversare la grande acqua.
+1Â°linea: 
+Propizio Ã¨ compiere grandi gesta.
 Sublime salute!
 Nessuna macchia.
-2ølinea: 
+2Â°linea: 
 Certamente qualcuno lo accresce.
 Dieci paia di tartarughe non possono opporsi a questo.
 Durevole perseveranza reca salute.
 Il re lo presenta davanti a Dio.
 Salute!
-3ølinea: 
-Si Š accresciuti da avvenimenti sciagurati.
+3Â°linea: 
+Si Ã¨ accresciuti da avvenimenti sciagurati.
 Nessuna macchia se sei verace
 E cammini nel mezzo
 E riferisci al principe con un sigillo.
-4ølinea: 
+4Â°linea: 
 Se cammini nel mezzo
 E riferisci al principe
-Egli seguir….
-Propizio Š essere adoperati
+Egli seguirÃ .
+Propizio Ã¨ essere adoperati
 Nel trasferimento della capitale.
-5ølinea: 
-Se la verit… tu hai un buon cuore
+5Â°linea: 
+Se la veritÃ  tu hai un buon cuore
 Non interrogate.
 Sublime salute!
-In verit… la bont… sar… riconosciuta come tua virt—.
-6ølinea: 
+In veritÃ  la bontÃ  sarÃ  riconosciuta come tua virtÃ¹.
+6Â°linea: 
 Egli non ridonda ad accrescimento per nessuno.
 Certamente qualcuno lo percuote.
 Egli non tiene fermo durevolmente il suo cuore.

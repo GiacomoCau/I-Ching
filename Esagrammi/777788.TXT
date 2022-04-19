@@ -1,38 +1,38 @@
 Numero: 34
-1øNome: Ta Ciuang
-2øNome: La potenza del grande
+1Â°Nome: Ta Ciuang
+2Â°Nome: La potenza del grande
 Pattern: 777788
 Immagine: 
 Il tuono sta su nel cielo:
 L'immagine della potenza del grande.
-Cos il nobile non calca sentieri
+CosÃ¬ il nobile non calca sentieri
 Che non corrispondono all'ordine.
 Sentenza: 
 La potenza del grande.
-Propizia Š perseveranza.
-1ølinea: 
+Propizia Ã¨ perseveranza.
+1Â°linea: 
 Potenza nelle dita dei piedi.
-Continuare cos reca sciagura.
-Questo Š certamente vero.
-2ølinea: 
+Continuare cosÃ¬ reca sciagura.
+Questo Ã¨ certamente vero.
+2Â°linea: 
 Perseveranza reca salute!
-3ølinea: 
-L'ignobile opera per potenza, il nobile non opera cos.
-Continuare a farlo Š pericoloso.
+3Â°linea: 
+L'ignobile opera per potenza, il nobile non opera cosÃ¬.
+Continuare a farlo Ã¨ pericoloso.
 Un capro urta contro una siepe
 E s'impiglia le corna.
-4ølinea: 
+4Â°linea: 
 Perseveranza reca salute!
 Il pentimento svanisce.
-La siepe si apre, non vi Š impigliamento.
+La siepe si apre, non vi Ã¨ impigliamento.
 La potenza poggia sull'asse d'una grande carrozza.
-5ølinea: 
-Perde la cocciutaggine con facilit….
+5Â°linea: 
+Perde la cocciutaggine con facilitÃ .
 Nessun pentimento!
-6ølinea: 
+6Â°linea: 
 Un capro urta contro la siepe.
-Non pu• andare indietro.
-Non pu• andare avanti.
-Nulla Š propizio.
-Se ci si accorge della difficolt…, questo reca salute.
+Non puÃ² andare indietro.
+Non puÃ² andare avanti.
+Nulla Ã¨ propizio.
+Se ci si accorge della difficoltÃ , questo reca salute.
 

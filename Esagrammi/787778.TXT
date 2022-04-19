@@ -1,11 +1,11 @@
 Numero: 49
-1øNome: Ko
-2øNome: Il sovvertimento (la muda)
+1Â°Nome: Ko
+2Â°Nome: Il sovvertimento (la muda)
 Pattern: 787778
 Immagine: 
-Nel lago vi Š fuoco:
+Nel lago vi Ã¨ fuoco:
 L'immagine del sovvertimento.
-Cos il nobile ordina il calcolo del tempo
+CosÃ¬ il nobile ordina il calcolo del tempo
 E rende chiari i tempi.
 Sentenza: 
 Il sovvertimento.
@@ -13,25 +13,25 @@ Nel giorno tuo incontrerai credenza.
 Sublime riuscita.
 Propizio per perseveranza.
 Il pentimento svanisce.
-1ølinea: 
+1Â°linea: 
 Si viene avvolti nella pelle di una vacca gialla.
-2ølinea: 
+2Â°linea: 
 Nel giorno proprio si sovverta pure.
 Incamminarsi reca salute.
 Nessuna macchia.
-3ølinea: 
+3Â°linea: 
 Incamminarsi reca sciagura.
 Perseveranza reca pericolo.
 Quando nel discorso il sovvertimento si sia annunciato per tre volte,
-Bisogna rivolgersi ad esso e si trover… credenza.
-4ølinea: 
+Bisogna rivolgersi ad esso e si troverÃ  credenza.
+4Â°linea: 
 Il pentimento svanisce.
 S'incontra credenza.
 Mutare l'ordinamento statale reca salute.
-5ølinea: 
+5Â°linea: 
 Il grand'uomo muda come una tigre.
 Ancor prima che interroghi l'oracolo egli incontra credenza.
-6ølinea: 
+6Â°linea: 
 Il nobile muda come una pantera.
 L'uomo comune muda in faccia.
 Incamminarsi reca sciagura.

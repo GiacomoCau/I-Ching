@@ -1,33 +1,33 @@
 Numero: 20
-1øNome: Kuann
-2øNome: La contemplazione (l'aspetto)
+1Â°Nome: Kuann
+2Â°Nome: La contemplazione (l'aspetto)
 Pattern: 888877
 Immagine: 
 Il vento soffia sulla terra:
 L'immagine della contemplazione.
-Cos gli antichi re visitavano le regioni del mondo,
+CosÃ¬ gli antichi re visitavano le regioni del mondo,
 Conteplavano il popolo e largivano insegnamento.
 Sentenza: 
 La contemplazione.
-Il lavacro Š gi… avvenuto, ma non ancora l'offerta.
+Il lavacro Ã¨ giÃ  avvenuto, ma non ancora l'offerta.
 Fidenti innalzano lo sguardo a lui.
-1ølinea: 
+1Â°linea: 
 Contemplazione puerile.
 Per un uomo da poco nessuna macchia.
 Per un nobile vergogna.
-2ølinea: 
+2Â°linea: 
 Contemplazione attraverso lo spiragli della porta.
-Propizia Š la perseveranza d'una donna.
-3ølinea: 
+Propizia Ã¨ la perseveranza d'una donna.
+3Â°linea: 
 Contemplazione della mia vita
 Decide di progresso o ritirata.
-4ølinea: 
+4Â°linea: 
 Contemplazione della luce dell'impero.
-Propizio Š operare come ospite d'un re.
-5ølinea: 
+Propizio Ã¨ operare come ospite d'un re.
+5Â°linea: 
 Contemplazione della mia vita.
-Il nobile Š senza macchia.
-6ølinea: 
+Il nobile Ã¨ senza macchia.
+6Â°linea: 
 Contemplazione della sua vita.
-Il nobile Š senza macchia.
+Il nobile Ã¨ senza macchia.
 

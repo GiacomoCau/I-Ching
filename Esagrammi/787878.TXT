@@ -1,34 +1,34 @@
 Numero: 63
-1øNome: Ki Tsi
-2øNome: Dopo il compimento
+1Â°Nome: Ki Tsi
+2Â°Nome: Dopo il compimento
 Pattern: 787878
 Immagine: 
-L'acqua Š al di sopra del fuoco:
+L'acqua Ã¨ al di sopra del fuoco:
 L'immagine dello stato dopo il compimento.
-Cos il nobile pondera la disgrazia e se ne premunisce a tempo.
+CosÃ¬ il nobile pondera la disgrazia e se ne premunisce a tempo.
 Sentenza: 
 Riuscita nel piccolo.
-Propizia Š perseveranza.
+Propizia Ã¨ perseveranza.
 In principio salute, alla fine scompiglio.
-1ølinea: 
+1Â°linea: 
 Egli frena le sue ruote.
 Finisce con la coda nell'acqua.
 Nessuna macchia.
-2ølinea: 
+2Â°linea: 
 La donna perde la cortina della sua carrozza.
 Non correrle dietro, dopo sette giorni la riottieni.
-3ølinea: 
+3Â°linea: 
 L'alto avo punisce il paese dei demoni;
 Dopo tre giorni lo vince.
 Gente comune non va adoperata.
-4ølinea: 
-Anche le vesti pi— belle danno stracci.
+4Â°linea: 
+Anche le vesti piÃ¹ belle danno stracci.
 Tutto il giorno sii prudente.
-5ølinea: 
+5Â°linea: 
 Il vicino oriente che macella un bove
-Non ottiene tanta vera felicit…,
+Non ottiene tanta vera felicitÃ ,
 Quanto il vicino in occidente con il suo piccolo sacrificio.
-6ølinea: 
+6Â°linea: 
 Egli finisce nell'acqua col capo.
 Pericolo.
 

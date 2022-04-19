@@ -1,38 +1,38 @@
 Numero: 21
-1øNome: Sc‹ Ho
-2øNome: Il morso che spezza
+1Â°Nome: ScÃ¯ Ho
+2Â°Nome: Il morso che spezza
 Pattern: 788787
 Immagine: 
 Tuono e fulmine:
 l'immagine del morso che spezza.
-Cos i re di una volta
+CosÃ¬ i re di una volta
 Consolidavano le leggi per mezzo di pene chiaramente determinate.
 Sentenza: 
 Il morso che spezza ha riuscita.
-Propizio Š dar corso alla legge.
-1ølinea: 
-Ha i piedi ficcati nei ceppi, chŠ le dita scompaiono.
+Propizio Ã¨ dar corso alla legge.
+1Â°linea: 
+Ha i piedi ficcati nei ceppi, chÃ¨ le dita scompaiono.
 Nessuna macchia.
-2ølinea: 
-Morde in carne tenera, chŠ il suo naso scompare.
+2Â°linea: 
+Morde in carne tenera, chÃ¨ il suo naso scompare.
 Nessuna macchia.
-3ølinea: 
+3Â°linea: 
 Morde in carne secca stantia e gli capita un boccone velenoso.
 Piccolo svergognamento.
 Nessuna macchia.
-4ølinea: 
+4Â°linea: 
 Morde in carne cartilaginosa essiccata.
 Riceve frecce di metallo.
-Propizio Š
-Essere memori delle difficolt…, e perseveranti.
+Propizio Ã¨
+Essere memori delle difficoltÃ , e perseveranti.
 Salute!
-5ølinea: 
+5Â°linea: 
 Morde in carne di muscolo essiccata.
 Riceve oro giallo.
 Essere perseverantemente consci del pericolo.
 Nessuna macchia!
-6ølinea: 
-Il suo collo Š conflitto nel collare di legno,
-ChŠ le orecchie scompaiono.
+6Â°linea: 
+Il suo collo Ã¨ conflitto nel collare di legno,
+ChÃ¨ le orecchie scompaiono.
 Sciagura!
 

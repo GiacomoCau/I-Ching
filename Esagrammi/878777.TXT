@@ -1,38 +1,38 @@
 Numero: 6
-1øNome: Sung
-2øNome: La lite
+1Â°Nome: Sung
+2Â°Nome: La lite
 Pattern: 878777
 Immagine: 
 Cielo ed acqua si allontanano l'uno dall'altra:
 L'immagine della lite.
-Cos il nobile, di ogni faccenda che imprende pondera l'inizio.
+CosÃ¬ il nobile, di ogni faccenda che imprende pondera l'inizio.
 Sentenza: 
 La lite: tu sei verace e vieni impedito.
-Accorto fermarsi a met… strada reca salute.
+Accorto fermarsi a metÃ  strada reca salute.
 Condurre a termine reca sciagura.
-Propizio Š vedere il grand'uomo.
-Non propizio Š attraversare la grande acqua.
-1ølinea: 
+Propizio Ã¨ vedere il grand'uomo.
+Non propizio Ã¨ attraversare la grande acqua.
+1Â°linea: 
 Se non si eterna la cosa,
 Avviene un piccolo battibecco.
 Alla fine viene salute
-2ølinea: 
-Non si pu• litigare, si rincasa per altra via.
-La gente della propria citt…, trecento casate,
+2Â°linea: 
+Non si puÃ² litigare, si rincasa per altra via.
+La gente della propria cittÃ , trecento casate,
 Rimangono esenti da colpa.
-3ølinea: 
-Alimentarsi di antica virt— d… perseveranza.
+3Â°linea: 
+Alimentarsi di antica virtÃ¹ dÃ  perseveranza.
 Pericolo, alla fine viene salute.
 Se segui per caso il servizio d'un re,
 Non ricercare opere.
-4ølinea: 
-Non si pu• litigare,
+4Â°linea: 
+Non si puÃ² litigare,
 Si torna indietro e ci si arrende alla sorte,
 Si cambia e si trova pace in perseveranza.
 Salute!
-5ølinea: 
+5Â°linea: 
 Litigare davanti a lui reca sublime salute!
-6ølinea: 
+6Â°linea: 
 Anche se ci viene per avventura una cintura di cuoio.
 Alla fine di una mattinata ci viene strappata tre volte.
 

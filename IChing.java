@@ -26,7 +26,7 @@ public class IChing {
 	}
 
 	private static void syntax() {
-		System.out.println("syntax: i-ching <esagramma>|monete|millefoglie");
+		System.out.println("syntax: IChing <esagramma>|monete|millefoglie");
 		System.exit(1);
 	}
 	
@@ -67,7 +67,7 @@ public class IChing {
 
 	private static Map <String, String> load (String f) throws IOException {
 		try (	
-			BufferedReader br = new BufferedReader( new InputStreamReader( new FileInputStream(f), "CP437"))
+			BufferedReader br = new BufferedReader( new InputStreamReader( new FileInputStream(f), "UTF-8"))
 			//BufferedReader br = new BufferedReader( new FileReader( f, Charset.forName("CP437")))
 		) {
 			Map <String, String> te = new Hashtable();

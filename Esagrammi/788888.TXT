@@ -1,11 +1,11 @@
 Numero: 24
-1øNome: Fu
-2øNome: Il ritorno (Il tempo del volgimento)
+1Â°Nome: Fu
+2Â°Nome: Il ritorno (Il tempo del volgimento)
 Pattern: 788888
 Immagine: 
 Il tuono dentro la terra:
 L'immagine del tempo del volgimento.
-Cos gli antiche re del tempo del solstizio chiudevano i passi.
+CosÃ¬ gli antiche re del tempo del solstizio chiudevano i passi.
 I mercanti e gli stranieri non viaggiavano,
 Ed il sovrano non visitava le contrade.
 Sentenza: 
@@ -13,32 +13,32 @@ Il ritorno.
 Riuscita.
 Uscita ed entrata impeccabili.
 Amici vengono senza macchia.
-Serpeggiante Š la via.
+Serpeggiante Ã¨ la via.
 Al settimo giorno viene il ritorno.
 E' propizio avere ove recarsi
-1ølinea: 
+1Â°linea: 
 Ritorno da piccola distanza.
-Non v'Š bisogno di alcun pentimento.
+Non v'Ã¨ bisogno di alcun pentimento.
 Gran Salute!
-2ølinea: 
+2Â°linea: 
 Ritorno tranquillo.
 Salute!
-3ølinea: 
+3Â°linea: 
 Ritorno molteplice.
 Pericolo.
 Nessuna macchia.
-4ølinea: 
+4Â°linea: 
 Camminando in mezzo agli altri,
 Si ritorna soli.
-5ølinea: 
+5Â°linea: 
 Ritorno generoso.
 Nessuna pentimento.
-6ølinea: 
+6Â°linea: 
 Ritorno fallito.
 Sciagura.
 Disgrazia da fuori e da dentro.
 Facendo marciare eserciti in questo modo,
-Si subir… infine una grande sconfitta.
+Si subirÃ  infine una grande sconfitta.
 Cosa sciagurata per il principe regnante.
-Per dieci anni non si Š pi— in grado di assalire
+Per dieci anni non si Ã¨ piÃ¹ in grado di assalire
 

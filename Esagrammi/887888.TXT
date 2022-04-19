@@ -1,34 +1,34 @@
 Numero: 15
-1øNome: Kkienn
-2øNome: La modestia
+1Â°Nome: Kkienn
+2Â°Nome: La modestia
 Pattern: 887888
 Immagine: 
 Dentro la terra sta un monte:
 L'immagine della modestia.
-Cos il nobile diminuisce quello che Š troppo,
+CosÃ¬ il nobile diminuisce quello che Ã¨ troppo,
 Ed aumenta quello che e poco.
 Egli pondera le cose e le rende uguali.
 Sentenza: 
 Modestia crea riuscita.
 Il nobile porta a termine.
-1ølinea: 
+1Â°linea: 
 Un nobile modesto-modesto
 Attraversi pure la grande acqua.
 Salute!
-2ølinea: 
+2Â°linea: 
 Modestia che si estrinseca.
 Perseveranza reca salute.
-3ølinea: 
+3Â°linea: 
 Un nobile meritevolmente modesto posta a termine.
 Salute!
-4ølinea: 
+4Â°linea: 
 Nulla che non sia propizio per modestia nel muoversi.
-5ølinea: 
+5Â°linea: 
 Non far pesare ricchezza nei confronti del prossimo.
 Propizio e assalire con violenza.
 Nulla che non sia propizio.
-6ølinea: 
+6Â°linea: 
 Modestia che si estrinseca.
-Propizio Š far marciare eserciti
-Per punire la propria citt… ed il proprio paese.
+Propizio Ã¨ far marciare eserciti
+Per punire la propria cittÃ  ed il proprio paese.
 

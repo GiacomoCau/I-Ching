@@ -1,30 +1,30 @@
 Numero: 1
-1øNome: Ch'ien
-2øNome: Il creativo
+1Â°Nome: Ch'ien
+2Â°Nome: Il creativo
 Pattern: 777777
 Immagine: 
-Il movimento del cielo Š vigoroso;
-Cos il nobile rende se stesso forte ed instancabile.
+Il movimento del cielo Ã¨ vigoroso;
+CosÃ¬ il nobile rende se stesso forte ed instancabile.
 Sentenza: 
 Il creativo opera sublime riuscita,
 Propizio per perseveranza.
-1ølinea: 
+1Â°linea: 
 Drago coperto.
 Non agire.
-2ølinea: 
+2Â°linea: 
 Drago che compare nel campo.
-Propizio Š vedere il grand'uomo.
-3ølinea: 
-Il nobile Š creativamente attivo tutto il giorno.
-Ancora a sera Š pieno di pensieri preoccupanti.
+Propizio Ã¨ vedere il grand'uomo.
+3Â°linea: 
+Il nobile Ã¨ creativamente attivo tutto il giorno.
+Ancora a sera Ã¨ pieno di pensieri preoccupanti.
 Pericolo.
 Nessuna macchia.
-4ølinea: 
+4Â°linea: 
 Oscillante impeto verso l'alto, al di sopra dell'abisso.
 Nessuna macchia.
-5ølinea: 
+5Â°linea: 
 Il drago vola in cielo,
 E' profiquo incontrare un uomo illustre.
-6ølinea: 
-Drago altezzoso avr… da pentirsi.
+6Â°linea: 
+Drago altezzoso avrÃ  da pentirsi.
 

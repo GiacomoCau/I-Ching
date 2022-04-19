@@ -1,29 +1,29 @@
 Numero: 32
-1øNome: Hong
-2øNome: La durata
+1Â°Nome: Hong
+2Â°Nome: La durata
 Pattern: 877788
 Immagine: 
 Tuono e vento:
 L'immagine della durata.
-Cos il nobile sta saldo e non muta l'indirizzo suo.
+CosÃ¬ il nobile sta saldo e non muta l'indirizzo suo.
 Sentenza: 
 Riuscita.
 Nessuna macchia.
-Propizia Š perseveranza.
-Propizio Š avere ove recarsi.
-1ølinea: 
+Propizia Ã¨ perseveranza.
+Propizio Ã¨ avere ove recarsi.
+1Â°linea: 
 Volere troppo presto durata reca persistentemente sciagura!
 Nulla che sia propizio.
-2ølinea: 
+2Â°linea: 
 Pentimento svanisce.
-3ølinea: 
+3Â°linea: 
 Chi non conferisce durata al suo carattere, soffre onta.
 Persistente svergognamento.
-4ølinea: 
-Nel campo non vi Š selvaggina.
-5ølinea: 
+4Â°linea: 
+Nel campo non vi Ã¨ selvaggina.
+5Â°linea: 
 Conferire al proprio carattere durata per perseveranza;
-Quest'Š salutare per una donna, sciagurato per un uomo.
-6ølinea: 
+Quest'Ã¨ salutare per una donna, sciagurato per un uomo.
+6Â°linea: 
 Irrequietezza come stato durevole reca sciagura.
 

@@ -1,43 +1,43 @@
 Numero: 11
-1øNome: Ttai
-2øNome: La pace
+1Â°Nome: Ttai
+2Â°Nome: La pace
 Pattern: 777888
 Immagine: 
 Cielo e terra si congiungono:
 L'immagine della pace.
 Il corso di cielo e terra,
 Amministra e ordina i doni di cielo e terra,
-E cos assiste il popolo.
+E cosÃ¬ assiste il popolo.
 Sentenza: 
 La pace.
 Il piccolo se ne va, il grande se ne viene.
 Salute!
 Riuscita!
-1ølinea: 
+1Â°linea: 
 Svellendo falarica viene via anche la zolla erbosa.
 Ognuno secondo la sua indole.
 Imprese recano salute.
-2ølinea: 
+2Â°linea: 
 Sostenere in dolcezza gli incolti,
 Attraversare decisi il fiume,
 Non negligere il distante,
 Non tener conto dei compagni:
-Cos alfine si riesce a camminare nel mezzo.
-3ølinea: 
+CosÃ¬ alfine si riesce a camminare nel mezzo.
+3Â°linea: 
 Nessun piano cui non segua un declivio,
 Nessun'andata cui non segua un ritorno,
-Senza macchia Š chi rimane perseverante nel pericolo.
-Non rammaricarti di questa verit….
-Godi della felicit… che oncor possiedi.
-4ølinea: 
+Senza macchia Ã¨ chi rimane perseverante nel pericolo.
+Non rammaricarti di questa veritÃ .
+Godi della felicitÃ  che oncor possiedi.
+4Â°linea: 
 Egli cala aleggiando, senza far pesare la ricchezza,
 Insieme al suo prossimo, schietto e sincero.
-5ølinea: 
-Il sovrano I d… in sposa sua figlia.
-Questo reca prosperit… e sublime salute.
-6ølinea: 
+5Â°linea: 
+Il sovrano I dÃ  in sposa sua figlia.
+Questo reca prosperitÃ  e sublime salute.
+6Â°linea: 
 Il vallo ricade nel fosso.
 Adesso non adoperare eserciti.
-Nella tua propria citt… annuncia i tuoi comandi.
+Nella tua propria cittÃ  annuncia i tuoi comandi.
 Perseveranza reca svergognamento.
 

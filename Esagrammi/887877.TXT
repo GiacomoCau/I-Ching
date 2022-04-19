@@ -1,42 +1,42 @@
 Numero: 53
-1øNome: Tsienn
-2øNome: Lo sviluppo (il progresso graduale)
+1Â°Nome: Tsienn
+2Â°Nome: Lo sviluppo (il progresso graduale)
 Pattern: 887877
 Immagine: 
-Sul monte Š un albero:
+Sul monte Ã¨ un albero:
 L'immagine dello sviluppo.
-Cos il nobile dimora in dignitosa virt—
+CosÃ¬ il nobile dimora in dignitosa virtÃ¹
 Per migliorare i costumi.
 Sentenza: 
 Lo sviluppo.
 La fanciulla viene data in isposa.
 Salute!
-Propizia Š perseveranza.
-1ølinea: 
+Propizia Ã¨ perseveranza.
+1Â°linea: 
 L'oca regale si avvicina gradatamente alla sponda.
-Il figlio giovane Š in pericolo.
+Il figlio giovane Ã¨ in pericolo.
 Si chiacchiera.
 Nessuna macchia.
-2ølinea: 
+2Â°linea: 
 L'oca regale si avvicina gradatamente alla roccia.
 Mangiare e bere in pace e concordia.
 Salute!
-3ølinea: 
+3Â°linea: 
 L'oca regale si avvicina gradatamente all'altipiano.
-Il marito esce di casa e non torna pi—.
-La moglie porta un bimbo ma non d… alla luce.
+Il marito esce di casa e non torna piÃ¹.
+La moglie porta un bimbo ma non dÃ  alla luce.
 Sciagura!
-Propizio Š respingere i predoni.
-4ølinea: 
+Propizio Ã¨ respingere i predoni.
+4Â°linea: 
 L'oca regale si avvicina gradatamente all'albero.
 Raggiunge forse un ramo piatto.
 Nessuna macchia.
-5ølinea: 
+5Â°linea: 
 L'oca regale si avvicina gradatamente alla vetta.
 La moglie per tre anni non rimane incinta.
-Infine essa non pu• impedire pi— nulla.
+Infine essa non puÃ² impedire piÃ¹ nulla.
 Salute!
-6ølinea: 
+6Â°linea: 
 L'oca regale si avvicina gradatamente alle alte nubi.
 Le sue penne si possono adoperare per le sacre danze
 Salute!

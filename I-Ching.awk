@@ -40,7 +40,7 @@ function esagramma (e,te,	b) {
 	b = base(e)
 	load(te, "esagrammi\\" b ".txt")
 	print \
-		te["Numero"] " - " te["1øNome"] ", " te["2øNome"] "\n\n" \
+		te["Numero"] " - " te["1Â°Nome"] ", " te["2Â°Nome"] "\n\n" \
 		draw(e) "\n" \
 		"Trigrammi esterni:\n" \
 		"\tSopra: " trigramma( substr(b, 4, 3) ) "\n" \
@@ -56,19 +56,38 @@ function esagramma (e,te,	b) {
 
 function draw (e,   i,d) {
 	for (i=6; i; ) d = d substr(e, i--, 1)
-	gsub(/6/, "\t> ßßßßßßß  ßßßßßßß <\n", d)
-	gsub(/7/, "\t  ßßßßßßßßßßßßßßßß  \n", d)
-	gsub(/8/, "\t  ßßßßßßß  ßßßßßßß  \n", d)
-	gsub(/9/, "\t> ßßßßßßßßßßßßßßßß <\n", d)
+	gsub(/6/, "\t> â–€â–€â–€â–€â–€â–€â–€  â–€â–€â–€â–€â–€â–€â–€ <\n", d)
+	gsub(/7/, "\t  â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€  \n", d)
+	gsub(/8/, "\t  â–€â–€â–€â–€â–€â–€â–€  â–€â–€â–€â–€â–€â–€â–€  \n", d)
+	gsub(/9/, "\t> â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€â–€ <\n", d)
 	return d
 }
 
 function drawy (e,   i,d) {
 	for (i=6; i; ) d = d substr(e, i--, 1)
-	gsub(/6/, "\t> şşşşşşş  şşşşşşş <\n", d)
-	gsub(/7/, "\t  şşşşşşşşşşşşşşşş  \n", d)
-	gsub(/8/, "\t  şşşşşşş  şşşşşşş  \n", d)
-	gsub(/9/, "\t> şşşşşşşşşşşşşşşş <\n", d)
+	gsub(/6/, "\t> â– â– â– â– â– â– â–   â– â– â– â– â– â– â–  <\n", d)
+	gsub(/7/, "\t  â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â–   \n", d)
+	gsub(/8/, "\t  â– â– â– â– â– â– â–   â– â– â– â– â– â– â–   \n", d)
+	gsub(/9/, "\t> â– â– â– â– â– â– â– â– â– â– â– â– â– â– â– â–  <\n", d)
+	return d
+}
+
+function drawz (e,   i,d) {
+	for (i=6; i; ) d = d substr(e, i--, 1)
+	gsub(/6/, "\t> â–„â–„â–„â–„â–„â–„â–„  â–„â–„â–„â–„â–„â–„â–„ <\n", d)
+	gsub(/7/, "\t  â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„  \n", d)
+	gsub(/8/, "\t  â–„â–„â–„â–„â–„â–„â–„  â–„â–„â–„â–„â–„â–„â–„  \n", d)
+	gsub(/9/, "\t> â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„â–„ <\n", d)
+	return d
+}
+
+function drawx (e,   i,d, c) {
+	for (i=6; i; ) d = d substr(e, i--, 1)
+	c = "\xE2\x96\x84"
+	gsub(/6/, gensub(/_/, c, "g", "\t> _______  _______ <\n"), d)
+	gsub(/7/, gensub(/_/, c, "g", "\t  ________________  \n"), d)
+	gsub(/8/, gensub(/_/, c, "g", "\t  _______  _______  \n"), d)
+	gsub(/9/, gensub(/_/, c, "g", "\t> ________________ <\n"), d)
 	return d
 }
 
@@ -80,7 +99,7 @@ function trigramma (t,   tt) {
 function lines (e,te,   i,l) {
 	for (i=1; i<=6; i++) {
 		if ((l = substr(e, i, 1)) !~ /6|9/) continue
-			printf "%s al %sø posto:%s\n\n", l, i, te[i "ølinea"]
+			printf "%s al %sÂ° posto:%s\n\n", l, i, te[i "Â°linea"]
 		}
 	}
 
@@ -88,7 +107,7 @@ function load (t,f,   i,k) {
 	while ((getline < f) > 0) {
 		if ($0 == "\x1A") break
 		#if (match($0, /^[^ ':]*:/)) {
-		if (match($0, /^(Numero|([12]ø)?Nome|Pattern|Immagine|Sentenza|[1-6]ølinea|ReWen|F—Hs|Simbolo|Carattere):/)) {
+		if (match($0, /^(Numero|([12]Â°)?Nome|Pattern|Immagine|Sentenza|[1-6]Â°linea|ReWen|FÃ¹HsÃ¬|Simbolo|Carattere):/)) {
 			k = substr($0, 1, RLENGTH-1)
 			t[k] = substr($0, RLENGTH+2) 
 		}

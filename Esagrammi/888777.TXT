@@ -1,36 +1,36 @@
 Numero: 12
-1øNome: Pi
-2øNome: Il ristagno
+1Â°Nome: Pi
+2Â°Nome: Il ristagno
 Pattern: 888777
 Immagine: 
 Cielo e terra non si uniscono:
 L'immagine del ristagno
-Cos il nobile si ritira sul suo valore interiore
-Per sfuggire alle difficolt….
+CosÃ¬ il nobile si ritira sul suo valore interiore
+Per sfuggire alle difficoltÃ .
 Egli non si lascia onorare con appannaggi.
 Sentenza: 
 Il ristagno.
-Mala gente non Š propizia
+Mala gente non Ã¨ propizia
 Alla perseveranza del nobile.
 Il grande se ne va, il piccolo se ne viene.
-1ølinea: 
+1Â°linea: 
 Svellendo falarica viene via la zolla erbosa.
 Ognuno secondo il suo genere.
 Perseveranza reca salute e riuscita.
-2ølinea: 
+2Â°linea: 
 Portarli e tollerarli, questo significa per gli ignobili salute.
 Al grand'uomo il ristagno serve alla riuscita.
-3ølinea: 
+3Â°linea: 
 essi portano pudore.
-4ølinea: 
+4Â°linea: 
 Chi opera per ordine del supremo rimane senza macchia.
-I suoi pari fruiscono della prosperit….
-5ølinea: 
+I suoi pari fruiscono della prosperitÃ .
+5Â°linea: 
 Il ristagno scema.
 Al grand'uomo salute!
 "Se non riuscisse, se non riuscisse!".
 Per questo egli lo lega a un fascio di rametti di gelso
-6ølinea: 
+6Â°linea: 
 Il ristagno cessa.
 Prima ristagno, poi salute!
 

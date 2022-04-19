@@ -1,33 +1,33 @@
 Numero: 9
-1øNome: Siau Cciu
-2øNome: La forza domatrice piccola
+1Â°Nome: Siau Cciu
+2Â°Nome: La forza domatrice piccola
 Pattern: 777877
 Immagine: 
 Il vento soffia nel cielo:
 L'immagine della forza domatrice piccola.
-Cos il nobile raffina le forme esteriori del suo carattere.
+CosÃ¬ il nobile raffina le forme esteriori del suo carattere.
 Sentenza: 
 La forza domatrice piccola ha riuscita.
 Dense nubi, nessuna pioggia dalle nostre contrade occidentali.
-1ølinea: 
+1Â°linea: 
 Ritorno sulla via.
 Come potrebbe essere questo una macchia! 
 Salute!
-2ølinea: 
+2Â°linea: 
 Si lascia indurre a ritornare. Salute!
-3ølinea: 
+3Â°linea: 
 Alla carrozza schizzano via i raggi delle ruote.
 Marito e moglie stralunano gli occhi.
-4ølinea: 
+4Â°linea: 
 Se sei verace svanisce sangue e cede angoscia.
 Nessuna macchia.
-5ølinea: 
-Se sei congiunto in fede e sincerit…,
+5Â°linea: 
+Se sei congiunto in fede e sinceritÃ ,
 Sei ricco nel tuo prossimo.
-6ølinea: 
+6Â°linea: 
 Viene la pioggia, viene la quiete.
-Questo Š dovuto alla durevole azione del carattere.
+Questo Ã¨ dovuto alla durevole azione del carattere.
 La moglie perseverando finisce in pericolo.
-La luna Š quasi piena.
+La luna Ã¨ quasi piena.
 Se il nobile persiste viene sciagura.
 

@@ -1,39 +1,39 @@
 Numero: 57
-1øNome: Sunn
-2øNome: Il mite, il penetrante, il vento
+1Â°Nome: Sunn
+2Â°Nome: Il mite, il penetrante, il vento
 Pattern: 877877
 Immagine: 
 Venti che si susseguono:
 L'immagine del mite che penetra.
-Cos il nobile diffonde i suoi comandi.
+CosÃ¬ il nobile diffonde i suoi comandi.
 Ed opera le sue faccende.
 Sentenza: 
 Il mite.
 Mediante piccole cose riuscita.
-Propizio Š avere dove recarsi.
-Propizio Š vedere il grand'uomo.
-1ølinea: 
+Propizio Ã¨ avere dove recarsi.
+Propizio Ã¨ vedere il grand'uomo.
+1Â°linea: 
 Nell'avanzare e nel cedere
 E propizia la perseveranza d'un guerriero.
-2ølinea: 
+2Â°linea: 
 Penetrare sotto il letto.
 Si impiegano sacerdoti e maghi in gran numero.
 Salute!
 Nessuna macchia.
-3ølinea: 
+3Â°linea: 
 Penetrare ripetuto.
 Svergognamento.
-4ølinea: 
+4Â°linea: 
 Il pentimento svanisce.
 Durante la caccia si catturano tre specie di selvaggina.
-5ølinea: 
+5Â°linea: 
 Perseveranza reca salute.
 Pentimento svanisce.
 Nulla che non sia propizio.
 Nessun inizio, ma una fine.
 Prima del cambiamento tre giorni, dopo il cambiamento tre giorni.
 Salute!
-6ølinea: 
+6Â°linea: 
 Penetrare sotto il letto.
 Egli perde il suo possesso e la sua ascia.
 Perseveranza reca sciagura.

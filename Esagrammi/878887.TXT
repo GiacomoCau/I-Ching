@@ -1,39 +1,39 @@
 Numero: 4
-1øNome: Mong
-2øNome: La stoltezza giovanile
+1Â°Nome: Mong
+2Â°Nome: La stoltezza giovanile
 Pattern: 878887
 Immagine: 
 Ai piedi del monte sgorga una fonte:
 L'immagine della giovinezza.
-Cos il nobile alimenta agendo con cura e sincerit… il suo carattere.
+CosÃ¬ il nobile alimenta agendo con cura e sinceritÃ  il suo carattere.
 Sentenza: 
 Stoltezza giovanile ha riuscita.
 Non io ricerco il giovane stolto,
 Il giovane stolto ricerca me.
-Consultato una prima volta io d• responso.
-Se si interroga due, tre volte, quest'Š importunare.
-se egli importuna non d• responso.
-Propizia Š perseveranza.
-1ølinea: 
+Consultato una prima volta io dÃ² responso.
+Se si interroga due, tre volte, quest'Ã¨ importunare.
+se egli importuna non dÃ² responso.
+Propizia Ã¨ perseveranza.
+1Â°linea: 
 Per sviluppare lo stolto,
 E' propizio mettere l'uomo sotto disciplina.
 Bisogna togliere i vincoli.
-Continuare Cos reca svergognamento.
-2ølinea: 
+Continuare CosÃ¬ reca svergognamento.
+2Â°linea: 
 Sopportare lo stolto in mitezza reca salute!
 Saper prendere le donne reca salute!
-Il figlio Š all'altezza delle faccende domestiche.
-3ølinea: 
+Il figlio Ã¨ all'altezza delle faccende domestiche.
+3Â°linea: 
 Prendere non devi una ragazza
 Che vede un uomo di bronzo
 E non rimane in possesso di se stessa.
-Nulla Š propizio.
-4ølinea: 
+Nulla Ã¨ propizio.
+4Â°linea: 
 Stoltezza di mente ristretta reca svergognamento
-5ølinea: 
+5Â°linea: 
 Stoltezza fanciullesca reca salute.
-6ølinea: 
-Quando si punisce la stoltezza non Š propizio commettere
+6Â°linea: 
+Quando si punisce la stoltezza non Ã¨ propizio commettere
 prevaricazioni.
 Propizio soltanto difendersi da prevaricazioni.
 

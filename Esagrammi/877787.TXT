@@ -1,40 +1,40 @@
 Numero: 50
-1øNome: Ting
-2øNome: Il Crogiuolo
+1Â°Nome: Ting
+2Â°Nome: Il Crogiuolo
 Pattern: 877787
 Immagine: 
-Al di sopra del legno vi Š il fuoco:
+Al di sopra del legno vi Ã¨ il fuoco:
 L'immagine del crogiuolo.
-Cos il nobile assestando la posizione consolida il destino.
+CosÃ¬ il nobile assestando la posizione consolida il destino.
 Sentenza: 
 Il crogiuolo.
 Sublime salute.
 Riuscita.
-1ølinea: 
+1Â°linea: 
 Un crogiuolo con le gambe rovesciate.
 Propizio per eliminare i grumi.
 Si prende una concubina per amore di suo figlio.
 Nessuna macchia.
-2ølinea: 
-Nel crogiuolo vi Š cibo.
+2Â°linea: 
+Nel crogiuolo vi Ã¨ cibo.
 I miei compagni hanno invidia,
 Ma non possono farmi nulla.
 Salute.
-3ølinea: 
-Il manico del crogiuolo Š alterato.
-Si Š impediti nel progredire.
+3Â°linea: 
+Il manico del crogiuolo Ã¨ alterato.
+Si Ã¨ impediti nel progredire.
 Il grasso del fagiano non viene mangiato.
 Quando poi cade la pioggia, allora il pentimento svanisce.
 Finalmente viene salute.
-4ølinea: 
+4Â°linea: 
 Il crogiuolo si rompe le gambe.
 Le vivande destinate al principe vengono rovesciate,
 E la figura ne rimane imbrattata.
 Sciagura!
-5ølinea: 
+5Â°linea: 
 Il crogiuolo ha manici gialli, anelli passatori d'oro.
-Propizia Š perseveranza.
-6ølinea: 
+Propizia Ã¨ perseveranza.
+6Â°linea: 
 Il crogiuolo ha anelli di giada.
 Gran salute!
 Nulla che non sia propizio.

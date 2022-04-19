@@ -1,35 +1,35 @@
 Numero: 19
-1øNome: linn
-2øNome: L'avvicinamento
+1Â°Nome: linn
+2Â°Nome: L'avvicinamento
 Pattern: 778888
 Immagine: 
-Al di sopra del lago Š la terra:
+Al di sopra del lago Ã¨ la terra:
 L'immagine dell'avvicinamento.
-Cos il nobile Š inesauribile nella sua intenzione di insegnare,
+CosÃ¬ il nobile Ã¨ inesauribile nella sua intenzione di insegnare,
 E senza limiti nel sopportare e proteggere il popolo.
 Sentenza: 
 L'avvicinamento ha sublime riuscita.
-Propizia Š perseveranza.
-Quando viene l'ottavo mese vi Š sciagura.
-1ølinea: 
+Propizia Ã¨ perseveranza.
+Quando viene l'ottavo mese vi Ã¨ sciagura.
+1Â°linea: 
 Avvicinamento in comune.
 Perseveranza reca salute.
-2ølinea: 
+2Â°linea: 
 Avvicinamento in comune.
 Salute!
-Tutto Š propizio
-3ølinea: 
+Tutto Ã¨ propizio
+3Â°linea: 
 Avvicinamento gradevole.
 Nulla che sia propizio.
 Se si giunge a rammaricarsi si diventa senza macchia.
-4ølinea: 
+4Â°linea: 
 Avvicinamento perfetto.
 Nessuna macchia.
-5ølinea: 
+5Â°linea: 
 Avvicinamento saggio.
 Questo si addice ad un grande principe.
 Salute!
-6ølinea: 
+6Â°linea: 
 Avvicinarsi di gran cuore.
 Salute.
 Nessuna macchia.

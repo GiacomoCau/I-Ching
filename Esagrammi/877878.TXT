@@ -1,41 +1,41 @@
 Numero: 48
-1øNome: Tsing
-2øNome: Il pozzo
+1Â°Nome: Tsing
+2Â°Nome: Il pozzo
 Pattern: 877878
 Immagine: 
-Sopra il legno vi Š l'acqua:
+Sopra il legno vi Ã¨ l'acqua:
 L'immagine del pozzo.
-Cos il nobile anima il popolo
+CosÃ¬ il nobile anima il popolo
 Ed esorta gli uomini ad aiutarsi.
 Sentenza: 
 Il pozzo.
-Si cambi pure citt…,
-Ma non si pu• cambiare il pozzo.
+Si cambi pure cittÃ ,
+Ma non si puÃ² cambiare il pozzo.
 Non cala e non cresce.
 Essi vengono e vanno e attingono al pozzo.
-Se si Š quasi raggiunta l'acqua del pozzo,
-Ma non si Š ancora ben gi— con la corda,
+Se si Ã¨ quasi raggiunta l'acqua del pozzo,
+Ma non si Ã¨ ancora ben giÃ¹ con la corda,
 Oppure si infrange la brocca, questo reca sciagura.
-1ølinea: 
+1Â°linea: 
 Il fango del pozzo non viene bevuto.
 Ad un pozzo vecchio gli animali non vanno.
-2ølinea: 
+2Â°linea: 
 Nella bocca del pozzo si catturano pesci.
-La brocca Š spaccata e cola.
-3ølinea: 
-Il pozzo Š ripulito, ma non se ne beve l'acqua.
+La brocca Ã¨ spaccata e cola.
+3Â°linea: 
+Il pozzo Ã¨ ripulito, ma non se ne beve l'acqua.
 E' questo che mi accora;
-Poich‚ vi si potrebbe attingere.
+PoichÃ© vi si potrebbe attingere.
 Se il re fosse chiaro,
-Si godrebbe insieme della felicit….
-4ølinea: 
+Si godrebbe insieme della felicitÃ .
+4Â°linea: 
 L'interno del pozzo viene rivestito di pietra.
 Nessuna macchia.
-5ølinea: 
-Nel pozzo vi Š una sorgente chiara e fresca
-Dalla quale si pu• bere.
-6ølinea: 
+5Â°linea: 
+Nel pozzo vi Ã¨ una sorgente chiara e fresca
+Dalla quale si puÃ² bere.
+6Â°linea: 
 Si attinge al pozzo senza impedimento.
-Esso Š fidato.
+Esso Ã¨ fidato.
 Sublime salute!
 

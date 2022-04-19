@@ -1,36 +1,36 @@
 Numero: 31
-1øNome: Hienn
-2øNome: L'influenzamento (la domanda di matrimonio)
+1Â°Nome: Hienn
+2Â°Nome: L'influenzamento (la domanda di matrimonio)
 Pattern: 887778
 Immagine: 
 Sopra il monte sta un lago:
 L'immagine dell'influenzamento.
-Cos il nobile, essendo pronto ad accoglierli,
+CosÃ¬ il nobile, essendo pronto ad accoglierli,
 Lascia che gli uomini gli si avvicinino.
 Sentenza: 
 L'influenzamento.
 Riuscita.
-Propizia Š perseveranza
+Propizia Ã¨ perseveranza
 Prendere una fanciulla reca salute.
-1ølinea: 
+1Â°linea: 
 L'influenzamento si estrinseca nell'alluce.
-2ølinea: 
+2Â°linea: 
 L'influenzamento si estrinseca nei polpacci.
 Sciagura!
 Dimorare reca salute!
-3ølinea: 
+3Â°linea: 
 L'influenzamento si estrinseca nelle cosce.
-Si attiene a ci• che lo segue.
-Continuare cos Š vergognoso.
-4ølinea: 
+Si attiene a ciÃ² che lo segue.
+Continuare cosÃ¬ Ã¨ vergognoso.
+4Â°linea: 
 Perseveranza reca salute!
 Il pentimento svanisce.
-Lasciando vagare agitato il pensiero in qua e in l…,
+Lasciando vagare agitato il pensiero in qua e in lÃ ,
 Seguono soltanto gli amici sui quali si dirigono pensieri consci.
-5ølinea: 
+5Â°linea: 
 L'influenzamento si estrinseca nella nuca.
 Nessuna pentimento.
-6ølinea: 
+6Â°linea: 
 L'influenzamento si estrinseca nelle mascelle, nelle guance e
 nella lingua.
 

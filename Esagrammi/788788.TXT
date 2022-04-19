@@ -1,11 +1,11 @@
 Numero: 51
-1øNome: Cenn
-2øNome: L'eccitante (lo scuotimento, il tuono)
+1Â°Nome: Cenn
+2Â°Nome: L'eccitante (lo scuotimento, il tuono)
 Pattern: 788788
 Immagine: 
 Tuono continuato:
 L'immagine dello scuotimento.
-Cos il nobile temendo e tremando mette ordine nella sua vita
+CosÃ¬ il nobile temendo e tremando mette ordine nella sua vita
 Ed esplora se stesso.
 Sentenza: 
 Lo scuotimento reca riuscita.
@@ -13,31 +13,31 @@ Lo scuotimento viene: uh, hu!
 Parole ridenti: ah, ah!
 Lo scuotimento spaventa per cento miglia,
 Ed egli non lascia cadere spatola sacrificale e calice.
-1ølinea: 
+1Â°linea: 
 Lo scuotimento viene: uh, uh!
 Seguono a questo parole ridenti: ah, ah!
 Salute!
-2ølinea: 
+2Â°linea: 
 Lo scuotimento viene con pericolo.
 Centomila volte tu perdi i tuoi tesori
 E devi salire i nove colli.
 Non affannarti dietro a loro.
 Dopo sette giorni li riottieni.
-3ølinea: 
+3Â°linea: 
 Lo scuotimento vien e fa uscire di senno.
 Se in seguito allo scuotimento si agisce, si rimane liberi di
 disgrazia.
-4ølinea: 
+4Â°linea: 
 Lo scuotimento finisce nella melma.
-5ølinea: 
+5Â°linea: 
 Lo scuotimento percuote a dritta e a manca: pericolo.
 Ma non si perde assolutamente nulla,
-Soltanto vi Š da fare.
-6ølinea: 
+Soltanto vi Ã¨ da fare.
+6Â°linea: 
 Lo scuotimento reca rovina e spaventati sguardi in giro.
 Procedere reca sciagura.
 Quando esso non ha ancora raggiunto in nostro corpo,
 Ma ha raggiunto soltanto il vicino,
-Allora non vi Š macchia.
+Allora non vi Ã¨ macchia.
 I compagni hanno da ridire.
 

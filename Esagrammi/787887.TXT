@@ -1,34 +1,34 @@
 Numero: 22
-1øNome: Ppi
-2øNome: L'avvenenza
+1Â°Nome: Ppi
+2Â°Nome: L'avvenenza
 Pattern: 787887
 Immagine: 
-Ai piedi del monte Š il fuoco:
+Ai piedi del monte Ã¨ il fuoco:
 L'immagine dell'avvenenza.
-Cos il nobile mette in chiaro
+CosÃ¬ il nobile mette in chiaro
 Le faccende correnti,
 Ma egli non osa decidere con questo delle grandi questioni contese.
 Sentenza: 
 Avvenenza ha riuscita.
-In piccolo Š propizio imprendere qualche cosa.
-1ølinea: 
+In piccolo Ã¨ propizio imprendere qualche cosa.
+1Â°linea: 
 Rende avvenenti le dita dei suoi piedi, abbandona la carrozza e
 cammina.
-2ølinea: 
+2Â°linea: 
 Rende avvenente il suo pizzo.
-3ølinea: 
+3Â°linea: 
 Avvenente ed umido.
 Durevole perseveranza reca salute.
-4ølinea: 
-Avvenenza o semplicit…?
+4Â°linea: 
+Avvenenza o semplicitÃ ?
 Un cavallo bianco viene come se volasse.
-Non Š un predone,
+Non Ã¨ un predone,
 Vuole promettersi a tempo debito.
-5ølinea: 
+5Â°linea: 
 Avveneza in colline e giardini.
-L'involto di seta Š meschino e piccino.
+L'involto di seta Ã¨ meschino e piccino.
 Svergognamento, ma infine salute!
-6ølinea: 
+6Â°linea: 
 Avvenenza schietta.
 Nessuna macchia.
 

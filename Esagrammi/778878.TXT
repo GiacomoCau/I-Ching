@@ -1,29 +1,29 @@
 Numero: 60
-1øNome: Tsie
-2øNome: La delimitazione
+1Â°Nome: Tsie
+2Â°Nome: La delimitazione
 Pattern: 778878
 Immagine: 
-Al di sopra del lago vi Š acqua:
+Al di sopra del lago vi Ã¨ acqua:
 L'immagine della delimitazione.
-Cos il nobile istituisce numero e misura ed indaga
-Cosa siano virt— e retto cammino.
+CosÃ¬ il nobile istituisce numero e misura ed indaga
+Cosa siano virtÃ¹ e retto cammino.
 Sentenza: 
 La delimitazione: riuscita.
 Delimitazione amara non va esercitata perseverantemente.
-1ølinea: 
-Non uscire da porta e cortile non Š una macchia.
-2ølinea: 
+1Â°linea: 
+Non uscire da porta e cortile non Ã¨ una macchia.
+2Â°linea: 
 Non uscire da porta e cortile reca sciagura.
-3ølinea: 
-Chi non conosce delimitazione avr… da lamentarsi.
+3Â°linea: 
+Chi non conosce delimitazione avrÃ  da lamentarsi.
 Nessuna macchia.
-4ølinea: 
+4Â°linea: 
 Delimitazione contenta.
 Riuscita.
-5ølinea: 
+5Â°linea: 
 Delimitazione dolce reca salute.
 Recarvisi reca rispetto.
-6ølinea: 
+6Â°linea: 
 Delimitazione amara: perseveranza reca sciagura.
 Pentimento svanisce.
 

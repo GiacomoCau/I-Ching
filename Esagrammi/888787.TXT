@@ -1,37 +1,37 @@
 Numero: 35
-1øNome: Tsinn
-2øNome: Il progresso
+1Â°Nome: Tsinn
+2Â°Nome: Il progresso
 Pattern: 888787
 Immagine: 
 Il sole s'innalza al di sopra della terra:
 L'immagine del progresso.
-Cos il nobile rende splendenti le sue chiare capacit….
+CosÃ¬ il nobile rende splendenti le sue chiare capacitÃ .
 Sentenza: 
 Il progresso.
 Il forte principe viene onorato con cavalli e in grande numero.
-In una sola giornata Š ricevuto tre volte.
-1ølinea: 
+In una sola giornata Ã¨ ricevuto tre volte.
+1Â°linea: 
 Progredente, ma respinto.
 Perseveranza reca salute!
 Non incontrando fiducia si rimanga pacati.
 Nessun errore.
-2ølinea: 
+2Â°linea: 
 Progredire ma in mestizia.
 Perseveranza reca salute!
 Si ottiene poi fortuna dalla propria ava.
-3ølinea: 
+3Â°linea: 
 Tutti sono d'accordo.
 Il pentimento svanisce.
-4ølinea: 
+4Â°linea: 
 Progresso come un topo di campagna.
 Perseveranza reca pericolo.
-5ølinea: 
+5Â°linea: 
 Il pentimento svanisce.
 Non perderti a cuore guadagno e perdita.
 Imprese recano salute.
-Tutto Š propizio.
-6ølinea: 
-Progredire con le corna Š lecito soltanto
+Tutto Ã¨ propizio.
+6Â°linea: 
+Progredire con le corna Ã¨ lecito soltanto
 Per punire la propria regione.
 Coscienza del pericolo reca salute.
 Nessuna macchia.

@@ -1,38 +1,38 @@
 Numero: 40
-1øNome: Hie
-2øNome: La liberazione
+1Â°Nome: Hie
+2Â°Nome: La liberazione
 Pattern: 878788
 Immagine: 
 Tuono e pioggia sorgono:
 L'immagine della liberazione.
-Cos il nobile perdona errori e rimette colpe.
+CosÃ¬ il nobile perdona errori e rimette colpe.
 Sentenza: 
 La liberazione.
-Propizio Š il sud-ovest.
-Quando non vi Š pi— luogo ove doversi recare,
-Ritornare Š di salute.
-Se vi Š ancora un luogo ove si debba andare,
-Allora Š salutare rapidit….
-1ølinea: 
+Propizio Ã¨ il sud-ovest.
+Quando non vi Ã¨ piÃ¹ luogo ove doversi recare,
+Ritornare Ã¨ di salute.
+Se vi Ã¨ ancora un luogo ove si debba andare,
+Allora Ã¨ salutare rapiditÃ .
+1Â°linea: 
 Senza macchia.
-2ølinea: 
+2Â°linea: 
 Nel campo si abbattono tre volpi
 E si riceve una freccia gialla.
-Perseveranza Š salutare.
-3ølinea: 
-Quand'uno porta un carico sulla schiena e ci• nonostante va in
+Perseveranza Ã¨ salutare.
+3Â°linea: 
+Quand'uno porta un carico sulla schiena e ciÃ² nonostante va in
 carrozza,
 Egli invoglia i predoni ad avvicinarsi.
 Perseveranza conduce a svergognamento.
-4ølinea: 
+4Â°linea: 
 Liberati del tuo alluce.
 Allora il tuo compagno se ne viene,
 E di lui puoi fidarti.
-5ølinea: 
-Se appena il nobile pu• liberarsi, questo reca salute.
-Mostra cos all'ignobile che fa sul serio.
-6ølinea: 
+5Â°linea: 
+Se appena il nobile puÃ² liberarsi, questo reca salute.
+Mostra cosÃ¬ all'ignobile che fa sul serio.
+6Â°linea: 
 Il principe tira ad uno sparviero su un alto muro.
 Egli lo abbatte.
-Tutto Š propizio.
+Tutto Ã¨ propizio.
 

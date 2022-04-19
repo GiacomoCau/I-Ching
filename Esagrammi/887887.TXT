@@ -1,37 +1,37 @@
 Numero: 52
-1øNome: Kenn
-2øNome: L'arresto (La calma, la quiete, il sostare)
+1Â°Nome: Kenn
+2Â°Nome: L'arresto (La calma, la quiete, il sostare)
 Pattern: 887887
 Immagine: 
 Montagna serrata a montagna:
 L'immagine della quiete.
-Cos il nobile con il suo pensiero non va oltre la sua situazione.
+CosÃ¬ il nobile con il suo pensiero non va oltre la sua situazione.
 Sentenza: 
 Tener quieto il proprio dorso,
-Cos che egli non avverta pi— il suo corpo.
+CosÃ¬ che egli non avverta piÃ¹ il suo corpo.
 Egli va nel suo cortile e non vede la sua gente.
 Nessuna macchia.
-1ølinea: 
+1Â°linea: 
 Tener ferme le dita dei piedi.
 Nessuna macchia.
-Propizia Š durevole perseveranza.
-2ølinea: 
+Propizia Ã¨ durevole perseveranza.
+2Â°linea: 
 Tener fermi i polpacci.
-Egli non pu• salvare quello che egli segue.
-Il suo cuore non Š lieto.
-3ølinea: 
+Egli non puÃ² salvare quello che egli segue.
+Il suo cuore non Ã¨ lieto.
+3Â°linea: 
 Tener ferme le anche.
 Irrigidire l'osso sacro.
 Pericoloso.
 Il cuore soffoca.
-4ølinea: 
+4Â°linea: 
 Tener fermo il tronco.
 Nessuna macchia.
-5ølinea: 
+5Â°linea: 
 Tener ferme le mascelle.
 Le parole sono ordinate.
 Il pentimento svanisce.
-6ølinea: 
+6Â°linea: 
 Magnanima quiete.
 Salute!
 
